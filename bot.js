@@ -46,14 +46,14 @@ client.on('message', msg => {
 
   client.on('message', msg => {//msg
     if (msg.content === '=help') {
-      msg.channel.send({file : "https://cdn.discordapp.com/attachments/476028851030458368/482663782200377344/1535146335144.png"})
+      msg.channel.send({file : "https://media.discordapp.net/attachments/483961152234061824/491694371276849152/20180829_215013.png?width=426&height=426})
     }
   });;
   
  
   client.on('message', msg => {//msg
     if (msg.content === '=color') {
-      msg.channel.send({file : "https://cdn.discordapp.com/attachments/470638175254216716/482679181553958922/1535149909407.png"})
+      msg.channel.send({file : "https://media.discordapp.net/attachments/483961152234061824/491694371276849152/20180829_215013.png?width=426&height=426"})
     }
   });;
 
